@@ -1,1 +1,7 @@
 Hello to Programming
+
+Added new lines to the files
+
+I am a web developer and i love coding
+I like life 
+Wow...
